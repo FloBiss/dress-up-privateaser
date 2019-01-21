@@ -1,0 +1,50 @@
+body{
+	background-color:green;
+	text-align:center;
+}
+.js-name{
+	background-color:black;
+	text-align:center;
+	color:white;
+}
+#bar{
+	padding:3% 15%;
+}
+
+#booker{
+	padding:3% 1%;
+	
+}
+.js-time{
+	background-color:orange;
+	text-align:center;
+	color:white;
+}
+.js-price-by-hour{
+	background-color:orange;
+	text-align:center;
+	color:white;
+}
+
+.js-price-by-person{
+	background-color:blue;
+	text-align:center;
+	color:white;
+}
+.js-persons{
+	background-color:blue;
+	text-align:center;
+	color:white;
+}
+
+.bref{
+	color:red;
+}
+
+#compute{
+	color:red;
+	background-color:yellow;
+}
+#actors{
+	color:fuchsia;
+}
